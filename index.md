@@ -9,6 +9,8 @@ The idea stems from [paasify.it](http://www.paasify.it/), where one can easily c
 We are in the process to migrate [TSDBCompare](https://github.com/TSDBBench/TSDBCompare) to here.
 TSDBCompare compares time series data bases.
 
+Our GitHub repositories are available at <https://github.com/ultimate-comparisons>.
+
 ## Other comparisons
  * [paasify.it](http://www.paasify.it/)
 
