@@ -6,13 +6,15 @@
 This page aims to provide ultimate comparisons.
 The idea stems from [paasify.it](http://www.paasify.it/), where one can easily compare PaaS providers.
 
+Want to contribute an ultimate comparison?
+Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/README.md).
+
+## Comparisons in preparation
+
   * [ultimate-TSDB-comparison](https://github.com/ultimate-comparisons/ultimate-TSDB-comparison)
 
-Want to contribute an ultimate comparison? Just fork [ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE).
-
-Our GitHub repositories are available at <https://github.com/ultimate-comparisons>.
-
 ## Related sites
+ * [awesome lists](https://github.com/jnv/lists)
 
 ### Other comparisons
  * [paasify.it](http://www.paasify.it/)
