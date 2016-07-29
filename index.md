@@ -9,6 +9,10 @@ The idea stems from [paasify.it](http://www.paasify.it/), where one can easily c
 Want to contribute an ultimate comparison?
 Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
 
+## Demonstration
+
+We currently have a skeletton running at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
+
 ## Comparisons in preparation
 
   * [ultimate-TSDB-comparison](https://github.com/ultimate-comparisons/ultimate-TSDB-comparison)
