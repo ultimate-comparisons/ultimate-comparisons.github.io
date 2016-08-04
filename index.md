@@ -4,7 +4,7 @@
 # Ultimate Comparisons
 
 This page aims to provide ultimate comparisons.
-The idea stems from [paasify.it](http://www.paasify.it/), where one can easily compare PaaS providers.
+The idea stems from [passfinder](https://paasfinder.org/), where one can easily compare PaaS providers.
 
 Want to contribute an ultimate comparison?
 Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
