@@ -21,10 +21,13 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
  * [awesome lists](https://github.com/jnv/lists)
 
 ### Other comparisons
- * [paasify.it](http://www.paasify.it/)
+ * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
+ * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
+ * [wikimatrix](http://www.wikimatrix.org/) - Comparisons of wiki software. Recent wiki software might not be included.
 
 ### Lists of comparisons
  * <https://github.com/dhamaniasad/awesome-comparisons>
+ * [Software comparisons on WikiPedia](https://en.wikipedia.org/wiki/Category:Software_comparisons)
  * the one above
 
 ### Software recommendations
