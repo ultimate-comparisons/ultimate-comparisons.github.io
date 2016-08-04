@@ -23,6 +23,7 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
 ### Other comparisons
  * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
  * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
+ * [http://stackshare.io/](stackshare) - Software tools and cloud infrastructure services.
  * [wikimatrix](http://www.wikimatrix.org/) - Comparisons of wiki software. Recent wiki software might not be included.
 
 ### Lists of comparisons
