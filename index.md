@@ -13,10 +13,6 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
 
 We currently have a skeletton running at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
 
-## Comparisons in preparation
-
-  * [ultimate-TSDB-comparison](https://github.com/ultimate-comparisons/ultimate-TSDB-comparison)
-
 ## Related sites
  * [awesome lists](https://github.com/jnv/lists)
 
