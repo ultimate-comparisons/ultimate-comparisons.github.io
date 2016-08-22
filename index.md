@@ -20,7 +20,8 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
  * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
  * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
  * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
- * [http://stackshare.io/](stackshare) - Software tools and cloud infrastructure services.
+ * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
+ * [TodoMVC](http://todomvc.com/) - Compares MV* frameworks for browser apps by showing how a minimal TODO app is implemented by different languages.
  * [wikimatrix](http://www.wikimatrix.org/) - Comparisons of wiki software. Recent wiki software might not be included.
 
 ### Lists of comparisons
