@@ -23,6 +23,7 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
  * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
  * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
  * [TodoMVC](http://todomvc.com/) - Compares MV* frameworks for browser apps by showing how a minimal TODO app is implemented by different languages.
+ * [vsChart.com](http://vschart.com/) - Wiki-based comparisons of two things.
  * [wikimatrix](http://www.wikimatrix.org/) - Comparisons of wiki software. Recent wiki software might not be included.
 
 ### Lists of comparisons
