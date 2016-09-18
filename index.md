@@ -18,6 +18,7 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
 
 ### Other comparisons
  * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
+ * [Awesome JavaScript](https://js.libhunt.com/) - Compares JavaScript libraries
  * [cURL - Comparison Table](https://curl.haxx.se/docs/comparison-table.html) - Compares cURL with other open source download tools
  * [Microjs](http://microjs.com/) - Interactive choice for JavaScript libraries and frameworks.
  * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
