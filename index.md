@@ -25,6 +25,7 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
  * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
  * [Slant](https://www.slant.co/) - An open platform for comparing different development related things. Example: [Knockout vs. Aurelia](https://www.slant.co/versus/33/37/~knockout_vs_aurelia)
  * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
+ * [The Ultimate JSON Library: JSON.simple vs GSON vs Jackson vs JSONP](http://blog.takipi.com/the-ultimate-json-library-json-simple-vs-gson-vs-jackson-vs-json/)
  * [TodoMVC](http://todomvc.com/) - Compares MV* frameworks for browser apps by showing how a minimal TODO app is implemented by different languages.
  * [VPS Benchmarks](http://www.vpsbenchmarks.com/compare/performances) - Compares Benchmarks of virutal servers.
  * [vsChart.com](http://vschart.com/) - Wiki-based comparisons of two things.
