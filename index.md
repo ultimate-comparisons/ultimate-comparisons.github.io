@@ -22,6 +22,7 @@ We currently have a skeletton running at <http://ultimate-comparisons.github.io/
  * [cURL - Comparison Table](https://curl.haxx.se/docs/comparison-table.html) - Compares cURL with other open source download tools
  * [Microjs](http://microjs.com/) - Interactive choice for JavaScript libraries and frameworks.
  * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
+ * [Password Managers Compared] - http://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password/
  * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
  * [Slant](https://www.slant.co/) - An open platform for comparing different development related things. Example: [Knockout vs. Aurelia](https://www.slant.co/versus/33/37/~knockout_vs_aurelia)
  * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
