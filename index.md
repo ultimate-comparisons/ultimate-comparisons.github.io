@@ -9,9 +9,10 @@ The idea stems from [passfinder](https://paasfinder.org/), where one can easily 
 Want to contribute an ultimate comparison?
 Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
 
-## Demonstration
+## Available comparions
 
-We currently have a skeletton running at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
+ * Ultimate IoT Platform Comparison: <https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/>
+ * Demonstration: <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>
 
 ## Related sites
  * [awesome lists](https://github.com/jnv/lists)
