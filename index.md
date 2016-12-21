@@ -21,9 +21,10 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
  * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
  * [Awesome JavaScript](https://js.libhunt.com/) - Compares JavaScript libraries
  * [cURL - Comparison Table](https://curl.haxx.se/docs/comparison-table.html) - Compares cURL with other open source download tools
+ * [Lightweight Markup](http://hyperpolyglot.org/lightweight-markup) - Compares Markdown, reStructuredText, MediaWiki, AsciiDoc, Org-mode 
  * [Microjs](http://microjs.com/) - Interactive choice for JavaScript libraries and frameworks.
- * [paasfinder](https://paasfinder.org/) - Compares PaaS offerings.
- * [Password Managers Compared] - http://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password/
+ * [PaaSfinder](https://paasfinder.org/) - Compares PaaS offerings.
+ * [Password Managers Compared](http://www.howtogeek.com/240255/password-managers-compared-lastpass-vs-keepass-vs-dashlane-vs-1password/) - Compares password managers
  * [perfect URL regex](https://mathiasbynens.be/demo/url-regex) - Compares regular expressions for matching URLs
  * [Slant](https://www.slant.co/) - An open platform for comparing different development related things. Example: [Knockout vs. Aurelia](https://www.slant.co/versus/33/37/~knockout_vs_aurelia)
  * [stackshare](http://stackshare.io/) - Software tools and cloud infrastructure services.
