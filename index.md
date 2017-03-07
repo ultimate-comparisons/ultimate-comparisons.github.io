@@ -11,8 +11,11 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
 
 ## Available comparions
 
+ * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
  * Ultimate IoT Platform Comparison: <https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/>
- * Demonstration: <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>
+ * Ultimate TSDB Comparison: <https://tsdbbench.github.io/Ultimate-TSDB-Comparison/>
+
+Demonstration of the latest features is available at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
 
 ## Related sites
  * [awesome lists](https://github.com/jnv/lists)
