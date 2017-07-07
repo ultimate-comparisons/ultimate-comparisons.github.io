@@ -13,6 +13,8 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
 
  * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
  * Ultimate IoT Platform Comparison: <https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/>
+ * Ultimate LaTeX Makers Comparison: <https://ultimate-comparisons.github.io/ultimate-latex-makers-comparison/>
+ * Ultimate Message Broker Comparison: <https://ultimate-comparisons.github.io/ultimate-message-broker-comparison/>
  * Ultimate TSDB Comparison: <https://tsdbbench.github.io/Ultimate-TSDB-Comparison/>
 
 Demonstration of the latest features is available at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
