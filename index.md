@@ -12,10 +12,13 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
 ## Available comparions
 
  * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
+ * Ultimate Graph Framework Comparison: <https://github.com/ultimate-comparisons/ultimate-graphframework-comparison> - compares libraries for drawing graphs in the web
  * Ultimate IoT Platform Comparison: <https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/>
  * Ultimate LaTeX Makers Comparison: <https://ultimate-comparisons.github.io/ultimate-latex-makers-comparison/>
+ * Ultimate Reference Management Comparison: <https://ultimate-comparisons.github.io/ultimate-reference-management-software-comparison/>
  * Ultimate Message Broker Comparison: <https://ultimate-comparisons.github.io/ultimate-message-broker-comparison/>
  * Ultimate TSDB Comparison: <https://tsdbbench.github.io/Ultimate-TSDB-Comparison/>
+ * Ultimate WEB IDE Comparison: <https://ultimate-comparisons.github.io/ultimate-webIDE-comparison/> - compares IDEs in the Web, for instance Eclipse Che with Cloud 9.
 
 Demonstration of the latest features is available at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
 
