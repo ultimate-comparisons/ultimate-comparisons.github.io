@@ -1,15 +1,12 @@
----
----
-
 # Ultimate Comparisons
 
-This page aims to provide ultimate comparisons.
-The idea stems from [PaaSfinder](https://paasfinder.org/), where one can easily compare PaaS providers.
+> An ultimate comparison is an open, community-driven approach to compare arbitrary things.
+> The data is available as markdown. The results are rendered using a table in the Web.
 
-Want to contribute an ultimate comparison?
-Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
+**Want to contribute an ultimate comparison?**
+Continue at [README.md of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
 
-## Available comparions
+## Available Comparions
 
  * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
  * Ultimate Graph Framework Comparison: <https://github.com/ultimate-comparisons/ultimate-graphframework-comparison> - compares libraries for drawing graphs in the web
@@ -23,9 +20,8 @@ Follow the [README of ultimate-comparison-BASE](https://github.com/ultimate-comp
 Demonstration of the latest features is available at <http://ultimate-comparisons.github.io/ultimate-comparison-BASE/>.
 
 ## Related sites
- * [awesome lists](https://github.com/jnv/lists)
 
-### Other comparisons
+### Other Comparisons
  * [AV comparatives](http://www.av-comparatives.org/) - Compares anti virus software.
  * [Awesome JavaScript](https://js.libhunt.com/) - Compares JavaScript libraries
  * [cURL - Comparison Table](https://curl.haxx.se/docs/comparison-table.html) - Compares cURL with other open source download tools
@@ -42,11 +38,19 @@ Demonstration of the latest features is available at <http://ultimate-comparison
  * [vsChart.com](http://vschart.com/) - Wiki-based comparisons of two things.
  * [wikimatrix](http://www.wikimatrix.org/) - Comparisons of wiki software. Recent wiki software might not be included.
 
-### Lists of comparisons
+### Lists of Comparisons
  * <https://github.com/dhamaniasad/awesome-comparisons>
  * [Software comparisons on WikiPedia](https://en.wikipedia.org/wiki/Category:Software_comparisons)
  * the one above
 
-### Software recommendations
+### Software Recommendations
  * <http://softwarerecs.stackexchange.com/>
  * <http://alternativeto.net/>
+ 
+### Other Cool Sites
+- [The curated listed of awesome lists](https://github.com/sindresorhus/awesome) - Collection of high-quality awesome-lists
+- [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists) - Collection of all available awesome-lists and lists-of-awesomelists
+
+## Acknowledgements
+
+The idea stems from [PaaSfinder](https://paasfinder.org/), where one can easily compare PaaS providers.
