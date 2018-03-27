@@ -9,7 +9,7 @@ Continue at [README.md of ultimate-comparison-BASE](https://github.com/ultimate-
 ## Available Comparions
 
  * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
- * Ultimate Graph Framework Comparison: <https://github.com/ultimate-comparisons/ultimate-graphframework-comparison> - compares libraries for drawing graphs in the web
+ * Ultimate Graph Framework Comparison: <https://ultimate-comparisons.github.io/ultimate-graphframework-comparison/> - compares libraries for drawing graphs in the web
  * Ultimate IoT Platform Comparison: <https://ultimate-comparisons.github.io/ultimate-IoT-platform-comparison/>
  * Ultimate LaTeX Makers Comparison: <https://ultimate-comparisons.github.io/ultimate-latex-makers-comparison/>
  * Ultimate Reference Management Comparison: <https://ultimate-comparisons.github.io/ultimate-reference-management-software-comparison/>
