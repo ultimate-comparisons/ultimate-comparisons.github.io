@@ -6,7 +6,7 @@
 **Want to contribute an ultimate comparison?**
 Continue at [README.md of ultimate-comparison-BASE](https://github.com/ultimate-comparisons/ultimate-comparison-BASE/blob/master/README.md).
 
-## Available Comparions
+## Available Comparisons
 
  * Ultimate Deployment Tool Comparison: <https://ultimate-comparisons.github.io/ultimate-deployment-tool-comparison/>
  * Ultimate Graph Framework Comparison: <https://ultimate-comparisons.github.io/ultimate-graphframework-comparison/> - compares libraries for drawing graphs in the web
