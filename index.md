@@ -4,7 +4,7 @@
 > The data is available as markdown. The results are rendered using a table in the Web.
 
 **Want to contribute an ultimate comparison?**
-Continue at [README.md of ultimate-comparison-BASE](https://ultimate-comparisons.github.io/ultimate-comparison-BASE/).
+Continue at the [Ultimate Comparison Framework](ultimate-comparisons.github.io/ultimate-comparison-framework/).
 
 ## Available Comparisons
 
